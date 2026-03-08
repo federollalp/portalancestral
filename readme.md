@@ -9,7 +9,7 @@
 Este portal centraliza el ecosistema digital de **Ancestral Food**, un emprendimiento de alimentación natural para perros y gatos. La solución surge de la necesidad de facilitarle a los clientes el acceso a catálogos, formularios de viandas y canales de contacto desde un único punto de entrada.
 
 ### 🚀 Demo en Vivo
-Podes ver el proyecto funcionando aquí: [https://portalancestral.netlify.app/](https://portalancestral.netlify.app/)
+Podes ver el proyecto funcionando acá: [https://portalancestral.netlify.app/](https://portalancestral.netlify.app/)
 
 ### ✨ Características Principales
 * **Diseño Responsive:** Optimizado para dispositivos móviles, priorizando la usabilidad "on-the-go".
@@ -38,4 +38,5 @@ Desde el rol de Analista, este proyecto resuelve el **pain point** de la fragmen
 Desarrollado por **Federico Rolla**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/federico-rolla-m)
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/federollalp)
